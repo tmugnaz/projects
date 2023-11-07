@@ -6,7 +6,7 @@ public class ricarca_binaria {
 
         Random random = new Random();
         int lunghezza;
-        lunghezza = random.nextInt(30);
+        lunghezza = random.nextInt(20);
         System.out.println(lunghezza);
         
         int[] pieno = toFill(lunghezza);
